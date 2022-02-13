@@ -11,7 +11,7 @@
   <body>
 
 <header>
-  <div class="p-header u-pc-only">
+  <div class="l-header u-sp-only">
     helllo dapat lato AKO
   </div>
 </header>
