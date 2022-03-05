@@ -2,7 +2,7 @@
 
 <!-- START PAGE  LAYOUT HERE -->
 
-<section class="p-main">
+<section class="p-index">
   <div class="u-layout">
 
   </div>

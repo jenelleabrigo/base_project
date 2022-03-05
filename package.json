@@ -1,0 +1,22 @@
+{
+  "name": "base_project",
+  "version": "1.0.0",
+  "description": "HTML Rules:\r Do not touch codes beyond start and end comment",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w htdocs/data/scss/ -o htdocs/data/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenelleabrigo/base_project.git"
+  },
+  "author": "jenelle abrigo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenelleabrigo/base_project/issues"
+  },
+  "homepage": "https://github.com/jenelleabrigo/base_project#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
